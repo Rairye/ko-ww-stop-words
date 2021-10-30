@@ -27,3 +27,7 @@ normalized_str = strip_outer_punct(raw_str)
 print("normalized_str is_stop_word -> {}".format(is_stop_word(normalized_str)))
 
 ```
+
+## Other Packages
+
+If you need a Korean sentence tokenizer, please see https://github.com/Rairye/kr-sentence
