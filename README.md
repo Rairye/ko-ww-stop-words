@@ -1,4 +1,4 @@
-#ko-ww-stopwords
+# ko-ww-stopwords
 This is a set of whole-word (independent) stop words in Korean. Dependent stop words, on the other hand, are difficult to identify without using a part-of-speech tagger, but it is easy to identify whole-word (independent) stop words.
 
 ## Code Sample
