@@ -1,6 +1,12 @@
 # ko-ww-stopwords
 This is a set of whole-word (independent) stop words in Korean. Dependent stop words, on the other hand, are difficult to identify without using a part-of-speech tagger, but it is easy to identify whole-word (independent) stop words.
 
+## Installation
+
+
+pip install ko-ww-stopwords
+
+
 ## Code Sample
 ```python
 from ko_ww_stopwords.stop_words import ko_ww_stop_words
